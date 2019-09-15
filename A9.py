@@ -8,3 +8,4 @@ print(arr)
 # flatten: return the copy of value
 arr2=arr.flatten()
 print(arr2)
+
